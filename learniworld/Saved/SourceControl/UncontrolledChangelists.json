@@ -13,8 +13,10 @@
 				"C:/Users/bairdj8/Desktop/learniworld/learniworld/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/6G/OXQ4W1EM18FOJEHP3GHUUL.uasset",
 				"C:/Users/bairdj8/Desktop/learniworld/learniworld/Content/Actors/BP_TestGuy.uasset",
 				"C:/Users/bairdj8/Desktop/learniworld/learniworld/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/UG/NVU5X9LN0BGS8U3V99PYPL.uasset",
-				"C:/Users/bairdj8/Desktop/learniworld/learniworld/Content/Interfaces/BPI_.uasset",
-				"C:/Users/bairdj8/Desktop/learniworld/learniworld/Content/Interfaces/BPI_GameplayTags.uasset"
+				"C:/Users/bairdj8/Desktop/learniworld/learniworld/Content/Interfaces/BPI_GameplayTags.uasset",
+				"C:/Users/bairdj8/Desktop/learniworld/learniworld/Content/Interfaces/BPI_Draggable.uasset",
+				"C:/Users/bairdj8/Desktop/learniworld/learniworld/Content/TopDown/Input/Actions/IA_Drag.uasset",
+				"C:/Users/bairdj8/Desktop/learniworld/learniworld/Content/Interfaces/BPI_.uasset"
 			]
 		}
 	]
