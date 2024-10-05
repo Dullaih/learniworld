@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/chichek/Documents/GitHub/learniworld/learniworld/Content/SFX/testsoundCue.uasset",
+				"C:/Users/chichek/Documents/GitHub/learniworld/learniworld/Content/Actors/BP_Creature_Bear.uasset",
+				"C:/Users/chichek/Documents/GitHub/learniworld/learniworld/Content/SFX/testSound.uasset",
 				"C:/Users/bairdj8/Desktop/learniworld/learniworld/Content/TopDown/Input/Actions/IA_Rhythm.uasset",
 				"C:/Users/bairdj8/Desktop/learniworld/learniworld/Content/TopDown/Input/IMC_Default.uasset",
 				"C:/Users/bairdj8/Desktop/learniworld/learniworld/Content/TopDown/Blueprints/BP_TopDownController.uasset",
