@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/schindn/Desktop/learniworld/learniworld/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/schindn/Desktop/learniworld/learniworld/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/CR/FRI68E93HNCVIVRWT9VL0R.uasset",
 				"C:/Users/chichek/Documents/GitHub/learniworld/learniworld/Content/SFX/testsoundCue.uasset",
 				"C:/Users/chichek/Documents/GitHub/learniworld/learniworld/Content/Actors/BP_Creature_Bear.uasset",
 				"C:/Users/chichek/Documents/GitHub/learniworld/learniworld/Content/SFX/testSound.uasset",
