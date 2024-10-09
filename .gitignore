@@ -75,3 +75,8 @@ DerivedDataCache/*
 *.uexp
 *.ubulk
 *.log
+/learniworld/Saved/StagedBuilds/Windows/learniworld/Content/Paks
+/learniworld/Saved/Cooked
+learniworld/Saved/Logs/learniworld_2.log
+*.log
+*.ushaderbytecode
